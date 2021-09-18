@@ -1,2 +1,2 @@
-# portfolio_website
+# PortfolioWebsite
 The source code of my portfolio website :)
